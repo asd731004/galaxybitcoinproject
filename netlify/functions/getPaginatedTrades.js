@@ -1,0 +1,1 @@
+// Logic for paginated trade data
